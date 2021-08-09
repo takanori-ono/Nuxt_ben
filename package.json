@@ -1,0 +1,18 @@
+{
+  "name": "nuxt-ben",
+  "version": "1.0.0",
+  "description": "sample",
+  "author": "ono",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.5",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
