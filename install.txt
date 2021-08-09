@@ -1,0 +1,12 @@
+Nuxt.js 環境構築
+
+node.js インストール
+
+ターミナルで
+npx create-nuxt-app@2.9.2 projectName
+(途中で聞いてくる、Yarn か npm はnpmで)
+
+※以下でも出来るみたい
+npm create nuxt-app projectName
+
+
